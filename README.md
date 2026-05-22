@@ -1,6 +1,6 @@
 # Hi there, I'm Harry! 👋
 
-![Banner Image] <img width="1440" height="460" alt="image" src="https://github.com/user-attachments/assets/a4205fef-3e9c-4926-994c-d771fb9a5da1" />
+<img width="1440" height="460" alt="image" src="https://github.com/user-attachments/assets/a4205fef-3e9c-4926-994c-d771fb9a5da1" />
 
 ## About Me 🚀
 
