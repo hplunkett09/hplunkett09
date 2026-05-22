@@ -13,7 +13,7 @@ I'm a passionate Student who is gaining experience in python and software engine
 
 ## Get in Touch 📬
 
-- **[LinkedIn] https://www.linkedin.com/in/harry-plunkett6/
+- [LinkedIn] https://www.linkedin.com/in/harry-plunkett6/
 
 
 
