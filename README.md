@@ -8,7 +8,7 @@ I'm a passionate Student who is gaining experience in python and software engine
 
 - 🌱 Currently learning: AI Learning
 - 🔭 Working on: ...
-- 🌍 Languages:Python, English
+- 🌍 Languages: Python, English
 - 📫 How to reach me: hplunkett09@gmail.com
 
 ## Get in Touch 📬
