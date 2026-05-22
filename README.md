@@ -1,7 +1,6 @@
 # Hi there, I'm Harry! 👋
 
-![Banner Image](your_banner_image_url_here)
-
+![Banner Image] file:///C:/Users/hplun/Downloads/harry_plunkett_banner_v3.svg
 ## About Me 🚀
 
 I'm a passionate Student who is gaining experience in python and software engineering. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
