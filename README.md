@@ -1,6 +1,7 @@
 # Hi there, I'm Harry! 👋
 
-![Banner Image] file:///C:/Users/hplun/Downloads/harry_plunkett_banner_v3.svg
+![Banner Image] <img width="1440" height="460" alt="image" src="https://github.com/user-attachments/assets/a4205fef-3e9c-4926-994c-d771fb9a5da1" />
+
 ## About Me 🚀
 
 I'm a passionate Student who is gaining experience in python and software engineering. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
